@@ -9,7 +9,7 @@ This Is A Corporate Company Admin Pannel Created Using React !!
 npm install
 ```
 
-# install tailwind in project
+# Install Tailwind In Project
 ```bash
 1. npm install -D tailwindcss <br>
 2. npx tailwindcss init 
