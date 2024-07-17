@@ -11,33 +11,33 @@ npm install
 
 # Install Tailwind In Project
 ```bash
-1. npm install -D tailwindcss <br>
+1. npm install -D tailwindcss  
 2. npx tailwindcss init 
 ```
 
 # Tailwindconfig.js
 ```bash
-/** @type {import('tailwindcss').Config} */<br>
-module.exports = {<br>
-  content: ["./src/**/*.{html,js}"],<br>
-  theme: {<br>
-    extend: {},<br>
-  },<br>
-  plugins: [],<br>
-} <br>
+/** @type {import('tailwindcss').Config} */ 
+module.exports = { 
+  content: ["./src/**/*.{html,js}"], 
+  theme: { 
+    extend: {}, 
+  }, 
+  plugins: [], 
+}  
 ```
 
 # Add The Code Given Below In Index.css
 ```bash
-@tailwind base;<br>
-@tailwind components;<br>
-@tailwind utilities; <br>
+@tailwind base; 
+@tailwind components; 
+@tailwind utilities;  
 ```
 
 # Install Mui Charts 
 ```bash
-npm install @mui/x-data-grid<br>
-npm install @mui/material @emotion/react @emotion/styled<br>
+npm install @mui/x-data-grid 
+npm install @mui/material @emotion/react @emotion/styled 
 ```
 
 # Install Antd :- npm install antd --save
