@@ -40,9 +40,14 @@ npm install @mui/x-data-grid
 npm install @mui/material @emotion/react @emotion/styled 
 ```
 
-# Install Antd :- npm install antd --save
+# Install Antd 
+```bash
+npm install antd --save
+```
 
-# Install React-Router-DOM :- npm i react-router-dom
-
-# If You Encounter And Kind Of Extra Error Just Paste The Error In ChatGPT and get your solution.
+# Install React-Router-DOM
+```bash
+npm i react-router-dom
+```
+ If You Encounter And Kind Of Extra Error Just Paste The Error In ChatGPT and get your solution.
 
