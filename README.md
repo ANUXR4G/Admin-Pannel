@@ -4,14 +4,19 @@ https://anuxr4g-admin-pannel-7u97dcll7-anuxr4gs-projects.vercel.app/
 # Admin-Pannel
 This Is A Corporate Company Admin Pannel Created Using React !!
 
-# npm install
-
+# Install NPM
+```bash
+npm install
+```
 
 # install tailwind in project
+```bash
 1. npm install -D tailwindcss <br>
 2. npx tailwindcss init 
+```
 
 # Tailwindconfig.js
+```bash
 /** @type {import('tailwindcss').Config} */<br>
 module.exports = {<br>
   content: ["./src/**/*.{html,js}"],<br>
@@ -20,17 +25,20 @@ module.exports = {<br>
   },<br>
   plugins: [],<br>
 } <br>
-
+```
 
 # Add The Code Given Below In Index.css
+```bash
 @tailwind base;<br>
 @tailwind components;<br>
 @tailwind utilities; <br>
+```
 
-# Install Mui Charts :- 
+# Install Mui Charts 
+```bash
 npm install @mui/x-data-grid<br>
 npm install @mui/material @emotion/react @emotion/styled<br>
-
+```
 
 # Install Antd :- npm install antd --save
 
